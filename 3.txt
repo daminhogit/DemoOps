@@ -1,0 +1,6 @@
+bash: line 1: S: command not found
+
+
+
+
+
